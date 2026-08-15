@@ -193,8 +193,12 @@ account so each install gets its own license key.
 
 ## About these repositories
 
-These repos host **releases, documentation, and licenses** — the application
-source code is closed and not published here.
+These repos host **releases and licenses** — the application source code is
+closed and not published here.
+
+**GitHub Issues are disabled.** Report bugs from inside the app; they reach us
+directly. Everything else goes through [Discord](https://discord.gg/Ub4SdAuhu)
+or [kvrnl.io/contact](https://kvrnl.io/contact/).
 
 Every app ships under the same
 [KVRNL Software License](https://github.com/KVRNL/kernel/blob/main/LICENSE):
@@ -212,8 +216,9 @@ none of your files.** Read the full policy at
 | | |
 |---|---|
 | 🌐 **Website** | [kvrnl.io](https://kvrnl.io) |
-| 🐛 **Bug reports** | Open an issue on the app's repo |
-| 💬 **Questions** | [kvrnl.io/contact](https://kvrnl.io/contact/) |
+| 🐛 **Bug reports** | Use **Report a Problem** inside the app |
+| 💬 **Discord** | [Join the server](https://discord.gg/Ub4SdAuhu) |
+| ✉️ **Questions** | [kvrnl.io/contact](https://kvrnl.io/contact/) |
 | ❓ **FAQ** | [kvrnl.io/faq](https://kvrnl.io/faq/) |
 | 📋 **Changelog** | [kvrnl.io/changelog](https://kvrnl.io/changelog/) |
 | 📘 **Facebook** | [KVRNL](https://www.facebook.com/profile.php?id=61590365426694) |
