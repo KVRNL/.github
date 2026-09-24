@@ -188,7 +188,7 @@ account so each install gets its own license key.
 |---|---|
 | **1. Create a free account** | Email verification and nothing else. No card, ever. → [kvrnl.io/signup](https://kvrnl.io/signup/) |
 | **2. Claim your key** | One click per product. Instant. |
-| **3. Download and install** | Straight from GitHub Releases. |
+| **3. Download and install** | From [kvrnl.io](https://kvrnl.io/products/) or GitHub Releases — same installer either way. |
 | **4. Switch machines anytime** | Keys bind to one device. Hit **Release device** on your [account page](https://kvrnl.io/account/) to move it. |
 
 ## About these repositories
