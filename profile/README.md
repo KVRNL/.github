@@ -181,8 +181,8 @@ Make a free account, claim a license key, and the app is yours.
 
 ## How it works
 
-Every KVRNL app is **free** — but not anonymous. Downloads run through a free
-account so each install gets its own license key.
+Every KVRNL app is **free**. Each install needs its own license key, which you
+get with a free account.
 
 | | |
 |---|---|
