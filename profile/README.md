@@ -39,7 +39,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Desktop companion for your AI coding CLIs</sub>
   <br><br>
   <a href="https://kvrnl.io/products/cli-assistant/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/cli-assistant"><img src="https://img.shields.io/github/v/release/KVRNL/cli-assistant?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/cli-assistant"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fcli-assistant.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/carbon-copy/">
@@ -50,7 +50,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Real-time folder backup for Windows</sub>
   <br><br>
   <a href="https://kvrnl.io/products/carbon-copy/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/carbon-copy"><img src="https://img.shields.io/github/v/release/KVRNL/carbon-copy?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/carbon-copy"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fcarbon-copy.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/master-keybind-chart/">
@@ -61,7 +61,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Every shortcut, one place</sub>
   <br><br>
   <a href="https://kvrnl.io/products/master-keybind-chart/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/master-keybind-chart"><img src="https://img.shields.io/github/v/release/KVRNL/master-keybind-chart?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/master-keybind-chart"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fmaster-keybind-chart.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 
 </tr>
@@ -75,7 +75,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Browser-free music sequencer & synth</sub>
   <br><br>
   <a href="https://kvrnl.io/products/synthesize-me/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/synthesize-me"><img src="https://img.shields.io/github/v/release/KVRNL/synthesize-me?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/synthesize-me"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fsynthesize-me.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/adgenie/">
@@ -86,7 +86,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Design studio for content creators</sub>
   <br><br>
   <a href="https://kvrnl.io/products/adgenie/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/adgenie"><img src="https://img.shields.io/github/v/release/KVRNL/adgenie?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/adgenie"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fadgenie.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/turnstyle/">
@@ -97,7 +97,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>DJ turntables for your desktop</sub>
   <br><br>
   <a href="https://kvrnl.io/products/turnstyle/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/turnstyle"><img src="https://img.shields.io/github/v/release/KVRNL/turnstyle?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/turnstyle"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fturnstyle.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 
 </tr>
@@ -111,7 +111,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Audio-reactive OBS overlays for streamers</sub>
   <br><br>
   <a href="https://kvrnl.io/products/immersion/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/immersion"><img src="https://img.shields.io/github/v/release/KVRNL/immersion?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/immersion"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fimmersion.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/clip-lab/">
@@ -122,7 +122,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Cut clips out of long recordings, instantly</sub>
   <br><br>
   <a href="https://kvrnl.io/products/clip-lab/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/clip-lab"><img src="https://img.shields.io/github/v/release/KVRNL/clip-lab?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/clip-lab"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fclip-lab.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/easy-nvidia-updater/">
@@ -133,7 +133,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>NVIDIA drivers, always up to date — quietly</sub>
   <br><br>
   <a href="https://kvrnl.io/products/easy-nvidia-updater/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/easy-nvidia-updater"><img src="https://img.shields.io/github/v/release/KVRNL/easy-nvidia-updater?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/easy-nvidia-updater"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Feasy-nvidia-updater.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 
 </tr>
@@ -147,7 +147,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>A fast, GPU-accelerated Windows terminal</sub>
   <br><br>
   <a href="https://kvrnl.io/products/kernel/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/kernel"><img src="https://img.shields.io/github/v/release/KVRNL/kernel?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/kernel"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fkernel.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/mainframe/">
@@ -158,7 +158,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>A wall of remote desktops</sub>
   <br><br>
   <a href="https://kvrnl.io/products/mainframe/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/mainframe"><img src="https://img.shields.io/github/v/release/KVRNL/mainframe?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/mainframe"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Fmainframe.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 <td width="33%" valign="top" align="center">
   <a href="https://kvrnl.io/products/fitmaker/">
@@ -169,7 +169,7 @@ Make a free account, claim a license key, and the app is yours.
   <sub>Custom FiveM clothing, no Blender needed</sub>
   <br><br>
   <a href="https://kvrnl.io/products/fitmaker/"><img src="https://img.shields.io/badge/download-free-F5A623?style=flat-square&labelColor=0d0d0f" alt="Download"></a>
-  <a href="https://github.com/KVRNL/fitmaker"><img src="https://img.shields.io/github/v/release/KVRNL/fitmaker?display_name=tag&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
+  <a href="https://github.com/KVRNL/fitmaker"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkvrnl.io%2Fbadge%2Ffitmaker.json&label=&color=0d0d0f&style=flat-square&labelColor=0d0d0f" alt="Version"></a>
 </td>
 
 </tr>
@@ -188,12 +188,12 @@ get with a free account.
 |---|---|
 | **1. Create a free account** | Email verification and nothing else. No card, ever. → [kvrnl.io/signup](https://kvrnl.io/signup/) |
 | **2. Claim your key** | One click per product. Instant. |
-| **3. Download and install** | From [kvrnl.io](https://kvrnl.io/products/) or GitHub Releases — same installer either way. |
+| **3. Download and install** | From [kvrnl.io](https://kvrnl.io/products/). |
 | **4. Switch machines anytime** | Keys bind to one device. Hit **Release device** on your [account page](https://kvrnl.io/account/) to move it. |
 
 ## About these repositories
 
-These repos host **releases and licenses** — the application source code is
+These repos host **documentation and licenses** — the application source code is
 closed and not published here.
 
 **GitHub Issues are disabled.** Report bugs from inside the app; they reach us
